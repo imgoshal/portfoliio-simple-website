@@ -52,6 +52,12 @@ body {
   margin: 10px;
 }
 
+.section-two__contact,
+.section-two__msg,
+.section-two__button:focus {
+  outline: none;
+}
+
 .section-two__contact {
   padding: 10px;
   border: none;
